@@ -629,7 +629,19 @@ if(!is_null($events)){
                                             'ทำความรู้จัก ETL',
                                             'https://bcplineoa.bangchak.co.th/powerbi-club/uploadimage/c5.png',
                                             $actionBuilder5
-                                        ),                                         
+                                        ),
+                                        new CarouselColumnTemplateBuilder(
+                                            'EP.06',
+                                            'ทำความรู้จัก EP.06',
+                                            'https://bcplineoa.bangchak.co.th/powerbi-club/uploadimage/c5.png',
+                                            $actionBuilder5
+                                        ),
+                                        new CarouselColumnTemplateBuilder(
+                                            'EP.07',
+                                            'DAX ตอนที่ 1',                                            ',
+                                            'https://bcplineoa.bangchak.co.th/powerbi-club/uploadimage/c5.png',
+                                            $actionBuilder5
+                                        ),                                                 
                                     )
                                 )
                             );
